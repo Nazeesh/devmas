@@ -2,3 +2,5 @@ hiiiiii
 git add .
 heeeeeeeeeeeeeeeeeellllllllo
 bbbbbbbbbbbbbbb
+qqqqqqqqqqqqqq
+git status
